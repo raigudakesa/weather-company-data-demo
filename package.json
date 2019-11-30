@@ -4,7 +4,7 @@
   "private": false,
   "description": "A sample nodejs app for using the Weather Company Data Service in Bluemix.",
   "engines": {
-    "node": "0.12.*"
+    "node": "12.*"
   },
   "repository": {
     "type": "git",
